@@ -10,7 +10,7 @@ database (in PostgreSQL).
 
 ## Features
 
-* Compatible with Rails 5 (ane Arel 7.1.2)
+* Compatible with Rails 5 (and Arel 7.1.2)
 * Supports STI tables (with type column)
 * Supports M:N join tables (without id)
 * Nice to RAM on large data sets
